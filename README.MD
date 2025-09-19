@@ -1,6 +1,6 @@
 # RI6 -  Calculadora por Linha de Comando
 
-Este programa é uma calculadora interativa que funciona no seu terminal, permitindo que você execute várias operações matemáticas. Ele foi construído em **TypeScript** e usa classes para modular cada tipo de cálculo e aplica os conceitos de herança e polimorfismo.
+Esta calculadora interativa de terminal, construída em TypeScript, usa classes para modular e organizar cada operação matemática. O programa aplica os conceitos de herança e polimorfismo.
 
 ## Compilação
 
